@@ -1,10 +1,4 @@
-Got it ✅ — I’ll make you an **extremely pretty, modern, and eye-catching GitHub README** for `Intrusion_Detection.exe`, with badges, colors, emojis, and good formatting so it looks professional but still friendly.
 
-Here’s a **fully polished** version:
-
----
-
-````markdown
 # 🛡️ Intrusion Detection System  
 > Real-time threat detection & monitoring made simple  
 
